@@ -1,3 +1,3 @@
 7.times do
-  puts using_phrase "Wingardium Leviosa"
+  puts "Wingardium Leviosa"
 end
